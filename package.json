@@ -1,0 +1,13 @@
+{
+  "name": "wagmi-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Einstein Core",
+  "repository": "https://github.com/einstein-core/wagmi-charts.git",
+  "license": "MIT"
+}
